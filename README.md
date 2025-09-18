@@ -1,4 +1,4 @@
-![Banner]([https://link-da-sua-imagem.com/banner.png](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZwMzNlcXpxdjh0ZmhnZDhmYjZobXp3czAxanBybzNkYjkzbXU2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif))
+![Banner]((https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZwMzNlcXpxdjh0ZmhnZDhmYjZobXp3czAxanBybzNkYjkzbXU2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif))
 
 <h1 align="center">👨‍💻 Full-Stack Developer</h1>
 
