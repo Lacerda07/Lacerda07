@@ -1,9 +1,10 @@
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjBmdGR3M2xtZG5mcG1rYjFkb3k4MWxkeTJvYnUxNGJ5am1wY2xucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ksD3qCqrRiUfYfiDfo/giphy.gif" 
+       alt="Banner" width="100%" />
 
+  <h1 style="margin-top:-150px; color:white;">👨‍💻 Dev Lacerda</h1>
+</div>
 
-<h1 align="center">👨‍💻 Dev Lacerda </h1>
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjBmdGR3M2xtZG5mcG1rYjFkb3k4MWxkeTJvYnUxNGJ5am1wY2xucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ksD3qCqrRiUfYfiDfo/giphy.gif" alt="Banner" width="100%" />
-</p>
 
 ---
 Hey, I'm Gabriel Andrade  
