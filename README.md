@@ -2,7 +2,7 @@
 
 <h1 align="center">👨‍💻 Dev Lacerda </h1>
 <p align="center">
-  <img src="(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXM3NWRwYmhrbXIyam9hNXIyNHM1OG9scmhtZWNkdGNpYmxyMnB6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)" alt="Banner" width="100%" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXM3NWRwYmhrbXIyam9hNXIyNHM1OG9scmhtZWNkdGNpYmxyMnB6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Banner" width="100%" />
 </p>
 
 ---
