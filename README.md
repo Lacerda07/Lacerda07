@@ -16,7 +16,7 @@ My goal is to keep growing as a developer and explore different areas of IT, fro
 
 
 ### 🚀 Things I code with
-
+EU sou homossexual gamer passivo
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
