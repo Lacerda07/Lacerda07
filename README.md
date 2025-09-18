@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjBmdGR3M2xtZG5mcG1rYjFkb3k4MWxkeTJvYnUxNGJ5am1wY2xucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ksD3qCqrRiUfYfiDfo/giphy.gif" 
-       alt="Banner" width="100%" />
+  
 
-  <h1 style="margin-top:-150px; color:white;">👨‍💻 Dev Lacerda</h1>
+  <h1 style="margin-top:-150px; color:white;"> Gabriel Lacerda</h1>
 </div>
 
 
@@ -23,6 +22,6 @@ My goal is to keep growing as a developer and explore different areas of IT, fro
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![Php](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+
 
 
