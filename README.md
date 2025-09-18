@@ -5,7 +5,7 @@
 </div>
 
 
-<img src=./gif/Hello.gif width="100%"></img>
+<img src="https://github.com/Gbr1elResende/Gbr1elResende/blob/main/gif%2FHello.gif" width="100%"></img>
 ---
 Hey, I'm Gabriel Andrade  
 I'm currently in my 3rd and final year of the Technical Program in Computer at Cotemig 
